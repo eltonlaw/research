@@ -19,4 +19,4 @@ That being said, they did beat SoTa on multiple tasks by around 2-3% despite the
 
 #### Other
 
-[Reddit Discussion] (https://www.reddit.com/r/MachineLearning/comments/6o5ume/r_google_trains_network_on_300_million_images/) 
+[Reddit Discussion](https://www.reddit.com/r/MachineLearning/comments/6o5ume/r_google_trains_network_on_300_million_images/) 
